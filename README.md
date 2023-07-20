@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=40&animation=fadeIn)
 
 ## About me
-```py
+```python
 name = "Ashutosh Mahapatra"
 knows = ["Python", "Java", "Flutter", "Kivy"]
 learning = "Flutter"
@@ -38,8 +38,10 @@ while True:
 
 ## Statistics 📊
 
-![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10) | ![Github Stats](https://my-github-stats-deployment.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10) |
--- | -- 
+<div>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10" width="51%"/>
+    <img src="https://my-github-stats-deployment.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="47%"/>
+</div>
 
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-ash-or-am-i&radius=15&hide_border=true&theme=dracula" width="72%">
