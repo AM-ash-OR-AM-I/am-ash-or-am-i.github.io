@@ -17,6 +17,12 @@ while True:
     print("Keep Learning!")
 ```
 
+## My Projects
+- [**Passlock**](https://github.com/AM-ash-OR-AM-I/Passlock)
+- [**PasslockDesktop**](https://github.com/AM-ash-OR-AM-I/PasslockDesktop)
+- [**FindMyStuff**](https://github.com/AM-ash-OR-AM-I/Find_MyStuff)
+- [**ExpenseManager**](https://github.com/AM-ash-OR-AM-I/user_expenses)
+
 ## Softwares I have used 🚀
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,dart,flutter,java,aws,gcp,firebase,githubactions,git,md,html,css,bootstrap)](https://skillicons.dev)
 <div>
