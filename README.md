@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=40&animation=fadeIn)
 
 ## About me
 ```py
@@ -22,6 +22,7 @@ while True:
 - [**PasslockDesktop**](https://github.com/AM-ash-OR-AM-I/PasslockDesktop)
 - [**FindMyStuff**](https://github.com/AM-ash-OR-AM-I/Find_MyStuff)
 - [**ExpenseManager**](https://github.com/AM-ash-OR-AM-I/user_expenses)
+- [**TicTacToe**](./tic-tac-toe.html)
 
 ## Softwares I have used 🚀
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,dart,flutter,java,aws,gcp,firebase,githubactions,git,md,html,css,bootstrap)](https://skillicons.dev)
