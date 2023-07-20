@@ -27,7 +27,7 @@ while True:
 ## Softwares I have used 🚀
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,dart,flutter,java,aws,gcp,firebase,githubactions,git,md,html,css,bootstrap)](https://skillicons.dev)
 <div>
-<img src="./img/Kivy_logo.png" alt="Kivy" width="50" height="50"/>
+<img src="./assets/kivy.png" alt="Kivy" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="50" height="50"/>
 <img src= "https://skillicons.dev/icons?i=linux,bash,vscode"/>
