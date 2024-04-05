@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=40&animation=fadeIn)
 
 ## About me
+
 ```python
 name = "Ashutosh Mahapatra"
 knows = ["Python", "Java", "Flutter", "Kivy"]
@@ -18,6 +19,7 @@ while True:
 ```
 
 ## My Projects
+
 - [**Passlock**](https://github.com/AM-ash-OR-AM-I/Passlock)
 - [**PasslockDesktop**](https://github.com/AM-ash-OR-AM-I/PasslockDesktop)
 - [**FindMyStuff**](https://github.com/AM-ash-OR-AM-I/Find_MyStuff)
@@ -25,6 +27,7 @@ while True:
 - [**TicTacToe**](./tic-tac-toe.html)
 
 ## Softwares I have used 🚀
+
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,dart,flutter,java,aws,gcp,firebase,githubactions,git,md,html,css,bootstrap)](https://skillicons.dev)
 <div>
 <img src="./assets/kivy.png" alt="Kivy" width="50" height="50"/>
@@ -33,23 +36,8 @@ while True:
 <img src= "https://skillicons.dev/icons?i=linux,bash,vscode"/>
 </div>
 
-## Visitors 👀
-![Visitor Count](https://profile-counter.glitch.me/AM-ash-OR-AM-I/count.svg)    
+## Resume
 
-## Statistics 📊
-
-<div>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10" width="51%"/>
-    <img src="https://my-github-stats-deployment.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="47%"/>
-</div>
-
-<div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-ash-or-am-i&radius=15&hide_border=true&theme=dracula" width="72%">
-    <img src="https://my-github-stats-deployment.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="26%"/>
-</div>
-
-## Hacktoberfest2022 badges 
-
-[![@ashu_coder's Holopin board](https://holopin.me/ashu_coder)](https://holopin.io/@ashu_coder)
+Checkout my [Resume here.](https://am-ash-or-am-i.github.io/resume)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=130&text=Bye!&fontSize=30)
